@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773801661008
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773801664503
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773801666789
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773801668825
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773801670922
+    },
+    "proactive-agent-lite": {
+      "version": "1.0.0",
+      "installedAt": 1773801673085
+    },
+    "drivemind": {
+      "version": "0.3.0",
+      "installedAt": 1773801722515
+    },
+    "tavily-web-search-for-openclaw": {
+      "version": "1.0.0",
+      "installedAt": 1773801781797
+    }
+  }
+}
